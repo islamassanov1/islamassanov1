@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Islam Assanov
-- 👀 I’m interested in Android app, web developments
-- 🌱 I’m currently learning Kotlin
+Islam Assanov
+Backend Developer
+🌱NIS CBD Pavlodar
 VK: https://vk.com/jojipinkguy
 Discord: vito#6605
 
